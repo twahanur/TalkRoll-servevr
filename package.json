@@ -14,7 +14,7 @@
     "friendship",
     "letter"
   ],
-  "author": "",
+  "author": "gopesh vasudev",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
