@@ -14,8 +14,8 @@
     "friendship",
     "letter"
   ],
-  "author": "gopesh vasudev",
-  "license": "ISC",
+  "author": "Twahanur Rahman",
+  "license": "",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cookie-parser": "^1.4.7",
